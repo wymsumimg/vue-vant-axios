@@ -1,5 +1,5 @@
 # vuemobile
-
+这是vue+vant+axios写的移动端
 ## Project setup
 ```
 npm install
